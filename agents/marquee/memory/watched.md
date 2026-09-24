@@ -17,18 +17,23 @@ One row per title. Ratings 1–10, each person scores separately. Leave a score 
 | Spirited Away | 2001 | — | 8 | 8 | |
 | Интердевочка (Intergirl) | 1989 | — | 7 | 7 | |
 | Курьер (Courier) | 1986 | — | 7 | 6 | |
-| The Shawshank Redemption | 1994 | — | | | Denis all-time favorite |
-| Back to the Future | 1985 | — | | | Denis all-time favorite |
-| Inception | 2010 | — | | | Denis all-time favorite |
-| Groundhog Day | 1993 | — | | | Denis all-time favorite |
-| The Family Man | 2000 | — | | | Denis all-time favorite; "our" movie |
-| Revolutionary Road | 2008 | — | | | Made Denis cry |
-| Harry Potter (series) | 2001–2011 | — | | | Denis couldn't stand it |
-| The Butterfly Effect | 2004 | — | | | Masha all-time favorite |
-| Moscow Does Not Believe in Tears | 1979 | — | | | Masha all-time favorite |
-| Titanic | 1997 | — | | | Masha all-time favorite |
-| Up | 2009 | — | | | Masha all-time favorite |
-| Twilight | 2008 | — | | | Masha comfort rewatch |
-| The Lion King | 1994 | — | | | Made Masha cry |
-| Mr. Bean (TV / films) | 1990– | — | | | Masha couldn't stand it |
-| Friends (TV) | 1994–2004 | — | | | Comfort rewatch; "our" show |
+| The Shawshank Redemption | 1994 | — | 10 | | Denis all-time favorite |
+| Back to the Future | 1985 | — | 9 | | Denis all-time favorite |
+| Inception | 2010 | — | 10 | | Denis all-time favorite |
+| Groundhog Day | 1993 | — | 10 | | Denis all-time favorite |
+| The Family Man | 2000 | — | 8 | | Denis all-time favorite; "our" movie |
+| Revolutionary Road | 2008 | — | 10 | | Made Denis cry |
+| Harry Potter (series) | 2001–2011 | — | 2 | 9 | Denis couldn't stand it |
+| The Butterfly Effect | 2004 | — | | 10 | Masha all-time favorite |
+| Moscow Does Not Believe in Tears | 1979 | — | | 9 | Masha all-time favorite |
+| Titanic | 1997 | — | | 9 | Masha all-time favorite |
+| Up | 2009 | — | | 9 | Masha all-time favorite |
+| Twilight | 2008 | — | | 9 | Masha comfort rewatch |
+| The Lion King | 1994 | — | | 9 | Made Masha cry |
+| Mr. Bean (TV / films) | 1990– | — | 8 | 1 | Masha couldn't stand it |
+| Friends (TV) | 1994–2004 | — | 9 | 9 | Comfort rewatch; "our" show |
+| Eternal Sunshine of the Spotless Mind | 2004 | unknown | 9 | 9 | Previously watched; already seen before Marquee's 2026-09-23 romantic pick |
+| The Irony of Fate, or Enjoy Your Bath! (Ирония судьбы) | 1975 | unknown | 7 | 7 | Previously watched; already seen before Marquee's 2026-09-23 romantic pick |
+| Jiro Dreams of Sushi | 2011 | unknown | 8 | 8 | Previously watched; called "excellent"; already seen before Marquee's 2026-09-23 documentary pick |
+| Chef's Table (TV) | 2015– | unknown | 8 | 8 | Previously watched; already seen before Marquee's 2026-09-23 series pick |
+| Russian Doll (TV) | 2019– | unknown | 8 | 8 | Previously watched; already seen before Marquee's 2026-09-23 series pick |

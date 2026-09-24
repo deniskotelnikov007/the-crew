@@ -22,14 +22,25 @@ Facts about us that any agent may use.
 - **Both:** very into wine and food at every level, all cuisines.
 
 ## Travel (visited)
-- **Germany:** Berlin, Hamburg, Mosel, Rheingau
+- **Germany:** Berlin, Hamburg, Mosel, Rheingau, Munich, Kaiserstuhl (Baden)
 - **France:** Alsace
 - **Italy:** Piedmont (Alba, Barolo, Barbaresco), Lake Como, Milan
 - **Switzerland:** Bern, Lugano, Mürren
-- **Norway, Denmark**
+- **Norway:** Fjords, Oslo, Bergen
+- **Denmark:** Copenhagen
+- **Sweden:** Malmö
 - **Ireland:** Wild Atlantic Way, Dublin, and Belfast (Northern Ireland)
-- **Vietnam, Cambodia**
+- **Scotland:** Edinburgh
+- **Austria:** Vienna
+- **Czech Republic:** Prague
+- **Hungary:** Budapest
+- **Turkey:** Istanbul
+- **Vietnam:** Ho Chi Minh City, Hanoi, Nha Trang, Ninh Binh, Halong Bay
+- **Cambodia:** Siem Reap
 - **Colombia:** Bogotá, Cartagena
-- **South Africa:** Cape Town, Stellenbosch, Franschhoek; Victoria Falls
-- **Spain, Portugal**
+- **Mexico:** Cancún, Tulum, Mexico City, Valle de Guadalupe (Baja), Puerto Vallarta, Chichén Itzá
+- **South Africa:** Cape Town, Stellenbosch, Franschhoek
+- **Zimbabwe, Zambia:** Victoria Falls
+- **Spain:** Sevilla, Barcelona, Córdoba, Valencia, Granada
+- **Portugal:** Lisbon, Sintra
 - Wish list: _TODO_
