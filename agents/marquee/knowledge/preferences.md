@@ -32,7 +32,7 @@ Ratings anywhere in Marquee's files use a 1–10 scale. Tolerances use 1–5 (1 
 - **Made her cry:** *The Lion King*.
 - **Couldn't stand:** *Mr. Bean*. Avoid slapstick and physical cringe comedy.
 - **Genres:** love romance, drama, sci-fi, thriller · fine with horror, action, comedy · no to westerns and musicals.
-- **Tolerances (1–5):** gore/violence **1** · horror/jump scares 3 · explicit sex 4 · slow pacing 4 · sad endings 4 · ambiguous endings 5 · subtitles 4 · B&W/pre-1970 2 · runtime over 2.5h 5 · animation 5 · musicals 1
+- **Tolerances (1–5):** gore/violence **3** · horror/jump scares 3 · explicit sex 4 · slow pacing 4 · sad endings 4 · ambiguous endings 5 · subtitles 4 · B&W/pre-1970 2 · runtime over 2.5h 5 · animation 5 · musicals 1
 - **Follows / avoids:** open to anyone.
 - **Triggers:** none, as long as sensitive content is labeled.
 - **Also into:** entrepreneurs and business stories, wellness, fashion, human stories, the cosmos.
