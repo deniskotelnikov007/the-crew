@@ -17,16 +17,16 @@ One row per title. Ratings 1–10, each person scores separately. Leave a score 
 | Spirited Away | 2001 | — | 8 | 8 | |
 | Интердевочка (Intergirl) | 1989 | — | 7 | 7 | |
 | Курьер (Courier) | 1986 | — | 7 | 6 | |
-| The Shawshank Redemption | 1994 | — | 10 | | Denis all-time favorite |
-| Back to the Future | 1985 | — | 9 | | Denis all-time favorite |
-| Inception | 2010 | — | 10 | | Denis all-time favorite |
-| Groundhog Day | 1993 | — | 10 | | Denis all-time favorite |
-| The Family Man | 2000 | — | 8 | | Denis all-time favorite; "our" movie |
-| Revolutionary Road | 2008 | — | 10 | | Made Denis cry |
+| The Shawshank Redemption | 1994 | — | 10 |9 | Denis all-time favorite |
+| Back to the Future | 1985 | — | 9 | 8| Denis all-time favorite |
+| Inception | 2010 | — | 10 | 9| Denis all-time favorite |
+| Groundhog Day | 1993 | — | 10 | 9| Denis all-time favorite |
+| The Family Man | 2000 | — | 8 | 9| Denis all-time favorite; "our" movie |
+| Revolutionary Road | 2008 | — | 10 | 9| Made Denis cry |
 | Harry Potter (series) | 2001–2011 | — | 2 | 9 | Denis couldn't stand it |
-| The Butterfly Effect | 2004 | — | | 10 | Masha all-time favorite |
-| Moscow Does Not Believe in Tears | 1979 | — | | 9 | Masha all-time favorite |
-| Titanic | 1997 | — | | 9 | Masha all-time favorite |
+| The Butterfly Effect | 2004 | — | 8| 10 | Masha all-time favorite |
+| Moscow Does Not Believe in Tears | 1979 | — | 9| 9 | Masha all-time favorite |
+| Titanic | 1997 | — | 8| 9 | Masha all-time favorite |
 | Up | 2009 | — | | 9 | Masha all-time favorite |
 | Twilight | 2008 | — | | 9 | Masha comfort rewatch |
 | The Lion King | 1994 | — | | 9 | Made Masha cry |

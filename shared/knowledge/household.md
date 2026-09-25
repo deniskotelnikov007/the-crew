@@ -17,30 +17,9 @@ Facts about us that any agent may use.
   - Wedding: not set yet. Honeymoon destination: not chosen yet.
 
 ## Interests
-- **Denis:** food and wine, traditions, religion, culture. Reads Remarque, Murakami, Pelevin (Пелевин). Loves old jazz.
+- **Denis:** food and wine (WSET3 certified), traditions, religion, culture. Reads Remarque, Murakami, Pelevin (Пелевин). Loves old jazz.
 - **Masha:** entrepreneurs and business stories, wellness, fashion, human stories, the cosmos.
 - **Both:** very into wine and food at every level, all cuisines.
 
-## Travel (visited)
-- **Germany:** Berlin, Hamburg, Mosel, Rheingau, Munich, Kaiserstuhl (Baden)
-- **France:** Alsace
-- **Italy:** Piedmont (Alba, Barolo, Barbaresco), Lake Como, Milan
-- **Switzerland:** Bern, Lugano, Mürren
-- **Norway:** Fjords, Oslo, Bergen
-- **Denmark:** Copenhagen
-- **Sweden:** Malmö
-- **Ireland:** Wild Atlantic Way, Dublin, and Belfast (Northern Ireland)
-- **Scotland:** Edinburgh
-- **Austria:** Vienna
-- **Czech Republic:** Prague
-- **Hungary:** Budapest
-- **Turkey:** Istanbul
-- **Vietnam:** Ho Chi Minh City, Hanoi, Nha Trang, Ninh Binh, Halong Bay
-- **Cambodia:** Siem Reap
-- **Colombia:** Bogotá, Cartagena
-- **Mexico:** Cancún, Tulum, Mexico City, Valle de Guadalupe (Baja), Puerto Vallarta, Chichén Itzá
-- **South Africa:** Cape Town, Stellenbosch, Franschhoek
-- **Zimbabwe, Zambia:** Victoria Falls
-- **Spain:** Sevilla, Barcelona, Córdoba, Valencia, Granada
-- **Portugal:** Lisbon, Sintra
-- Wish list: _TODO_
+## Travel
+See `shared/knowledge/travel.md` for places visited and the wish list.

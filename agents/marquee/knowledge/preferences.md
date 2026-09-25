@@ -66,7 +66,7 @@ Lists we'll ask for by name:
 - **Documentary, broaden perspective:** people, cultures, historical events, learning something new.
 - **Travel / destination documentary.**
 - **Food / wine / restaurants.**
-- Good sources for themes: places we've been (`shared/knowledge/household.md` → Travel), especially the wine regions, plus our interests there.
+- Good sources for themes: places we've been (`shared/knowledge/travel.md`), especially the wine regions, plus our interests there.
 - Dates in `shared/knowledge/household.md` (monthiversary on the 18th, engagement anniversary, birthdays) are good hooks for themed picks.
 
 ## Exploration goals
