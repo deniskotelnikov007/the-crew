@@ -59,3 +59,19 @@ One row per title. Ratings 1–10, each person scores separately. Leave a score 
 | Брат (Brother) | 1997 | unknown | 8 | | Taste probe #26. Denis: very brutal but realistic; captures the feel of 1990s Russia |
 | The Great Gatsby | 2013 | unknown | 8 | 8 | Taste probe #27. Both: very nice costumes, set design, atmosphere |
 | Succession (TV) | 2018–2023 | unknown | 7 | 9 | Taste probe #30. Denis: strong start, then overcomplicated; too much at the end. Masha: the rivalry, the generational gap, family lines; fascinating |
+| Breaking Bad (TV) | 2008–2013 | unknown | 9 | | Series probe S1. Denis finished all of it |
+| The Office (US) (TV) | 2005–2013 | unknown | 9 | 9 | Series probe S3. Both: Michael Scott is the best |
+| House of Cards (TV) | 2013–2018 | unknown | 9 | 8 | Series probe S6. Denis hated that Kevin Spacey was removed in the final season |
+| The Crown (TV) | 2016–2023 | unknown | 8 | 8 | Series probe S7. Both: real events, good cast, great production |
+| Lost (TV) | 2004–2010 | unknown | | 8 | Series probe S11. Masha: great start, then boring and made up |
+| The Queen's Gambit (TV) | 2020 | unknown | | 8 | Series probe S13. Denis hasn't seen it |
+| Squid Game (TV) | 2021–2025 | unknown | | 7 | Series probe S14. Masha gave it 7, well below *Parasite* (10). Marquee's read: heavy violence costs points, as with *Pulp Fiction* (7) |
+| Emily in Paris (TV) | 2020– | unknown | 6 | 7 | Series probe S17. Denis: light and simple. Masha: liked it at first, then it got too tacky |
+| The Bear (TV) | 2022– | unknown | 9 | 8 | Series probe S19. An intense, stressful kitchen setting works for both |
+| Severance (TV) | 2022– | unknown | 9 | 9 | Series probe S20. Both love the intrigue, the minimalism, the absurdity |
+| The White Lotus (TV) | 2021– | unknown | 8 | 9 | Series probe S21. Denis: seasons 1 and 3 were the best; Jennifer Coolidge is a queen; sometimes overdramatic and overplayed. Masha: loves the suspense and the cringe |
+| Big Little Lies (TV) | 2017–2019 | unknown | | 8 | Series probe S22. Denis hasn't seen it; it has Kidman, whom he follows |
+| True Detective, Season 1 (TV) | 2014 | unknown | 8 | 8 | Series probe S23. Dark, slow, philosophical crime works for both |
+| Downton Abbey (TV) | 2010–2015 | unknown | | 9 | Series probe S25. Masha loves family-dynasty period drama; Denis hasn't seen it |
+| Слово пацана (The Boy's Word) (TV) | 2023 | unknown | 9 | 9 | Series probe S26. Raw late-Soviet realism works for both; violence didn't hurt it for Masha |
+| Anthony Bourdain: Parts Unknown (TV) | 2013–2018 | unknown | 10 | 9 | Series probe S29. Denis: the best television |
