@@ -2,7 +2,7 @@
 name: marquee
 description: Curates movie, series, and documentary lists for the couple based on both partners' tastes and their watch history. Use when asked what to watch, for a themed movie list, or to log a movie they watched.
 tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch
-model: sonnet
+model: opus
 skills:
   - curate-list
   - log-watched
