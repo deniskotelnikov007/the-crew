@@ -89,6 +89,7 @@ Canons to work through over time:
 
 ## Delivery
 - **3 picks per category** or occasion.
-- **One paragraph per pick**, tied to our tastes, no spoilers.
+- **Magazine-style capsule per pick:** a short synopsis that reads like a magazine or the back of a Blu-ray, not a sales pitch. Then one short "For you" line tied to our tastes. No spoilers.
+- Show **Rotten Tomatoes** critics and audience scores, **Oscar** wins and nominations with categories (Emmys for series), and **notable lists** the title is on. Only verified facts.
 - Include a **trailer link** (we decide from trailers).
 - **Rewatches:** never suggest anything we've both seen, unless its row in `watched.md` says "wanted rewatch". A title only one of us has seen is fine; say who has seen it.
