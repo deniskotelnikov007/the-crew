@@ -42,7 +42,7 @@ def guess_date(text):
     Without a year, pick the year whose weekday matches (sites leave stale events up),
     else the year that puts the date closest to today.
     """
-    m = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})\b(?:,?\s*(\d{4}))?", text)
+    m = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?\b(?:,?\s*(\d{4}))?", text, re.I)
     if not m:
         return None
     month = MONTHS.index(m.group(1)[:3].lower()) + 1
@@ -170,7 +170,81 @@ def fetch_winehouse():
     return events
 
 
-FETCHERS = {"wallys": fetch_wallys, "winehouse": fetch_winehouse}
+# --- Stanley's Wet Goods ------------------------------------------------------
+# Shopify page; each event is an <image-with-text> block (kicker, title, date/time, description,
+# "RESERVE" link to a product whose .js endpoint has the price).
+
+def fetch_stanleys():
+    base = "https://stanleys.la"
+    page = get(base + "/pages/upcoming-events")
+    main = re.search(r"<main.*?</main>", page, re.S).group(0)
+    events = []
+    for block in re.split(r"<image-with-text[^>]*>", main)[1:]:
+        block = block.split("</image-with-text>")[0]
+        lines = html_to_text(block).splitlines()
+        when = next((l for l in lines if guess_date(l) and re.search("|".join(WEEKDAYS), l, re.I)), None)
+        if not when:
+            continue
+        i = lines.index(when)
+        title = " · ".join(lines[max(0, i - 2):i])
+        time_line = lines[i + 1] if i + 1 < len(lines) and re.search(r"\d(:\d\d)?\s*[AP]M", lines[i + 1], re.I) else ""
+        desc = "\n".join(l for l in lines[i + 1:] if l != time_line and not l.upper().startswith("RESERVE"))
+        link = re.search(r'href="(https://stanleys\.la/products/[^"?]+)', block)
+        price = None
+        if link:
+            try:
+                price = json.loads(get(link.group(1) + ".js"))["price"] / 100
+            except Exception:
+                pass
+        events.append({
+            "source": "stanleys",
+            "title": title,
+            "description": desc[:4000],
+            "venue": "Stanley's Wet Goods, 9620 Venice Blvd, Culver City, CA 90232",
+            "when": f"{when} {time_line}".strip(),
+            "date": guess_date(when),
+            "price": price,
+            "tickets": [{"label": "Reserve", "url": link.group(1)}] if link else [],
+            "page": base + "/pages/upcoming-events",
+        })
+    return events
+
+
+# --- Learn About Wine ---------------------------------------------------------
+# Shopify store; in-person events are products in one collection, readable as JSON.
+# Titles look like "Pinot Taste Off: Pizza Edition | Arts District: Saturday, October 17th at 3PM".
+# Trips and interest lists are skipped.
+
+def fetch_learnaboutwine():
+    base = "https://learnaboutwine.com"
+    data = json.loads(get(base + "/collections/in-person-events/products.json?limit=250"))
+    events = []
+    for p in data.get("products", []):
+        title = p["title"]
+        if re.search(r"\btrip\b|interest list|weekend", title, re.I) or "|" not in title:
+            continue
+        name, where_when = [x.strip() for x in title.split("|", 1)]
+        venue, _, when = where_when.partition(":")
+        date = guess_date(when)
+        if not date:
+            continue
+        variants = p.get("variants") or []
+        events.append({
+            "source": "learnaboutwine",
+            "title": name,
+            "description": html_to_text(p.get("body_html") or "")[:8000],  # lineups come late in long bodies
+            "venue": venue.strip(),
+            "when": when.strip(),
+            "date": date,
+            "price": variants[0]["price"] if variants else None,
+            "availability": "InStock" if any(v.get("available") for v in variants) else "SoldOut",
+            "tickets": [{"label": "Tickets", "url": f"{base}/products/{p['handle']}"}],
+            "page": base + "/collections/in-person-events",
+        })
+    return events
+
+
+FETCHERS = {"wallys": fetch_wallys, "winehouse": fetch_winehouse, "stanleys": fetch_stanleys, "learnaboutwine": fetch_learnaboutwine}
 
 
 def main():
